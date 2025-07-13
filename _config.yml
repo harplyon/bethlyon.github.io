@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : #"bethlyon.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "bethlyon.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
