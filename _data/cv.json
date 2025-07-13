@@ -4,7 +4,7 @@
     "email": "mbl235@cornell.edu",
     "phone": "607-255-4196",
     "website": "",
-    "summary": "Clinical Professor of Law and Associate Dean for Experiential Education at Cornell Law School. Founding Director of Farmworker Legal Assistance Clinic with extensive experience in immigration law, human rights, and clinical legal education.",
+    "summary": "Clinical Professor of Law and Associate Dean for Experiential Education at Cornell Law School. Founding Director of Farmworker Legal Assistance Clinic with extensive experience in immigration law, human rights, and clinical legal education. International clinical legal education trainer and visiting lecturer with experience supporting global development of clinical legal education.",
     "location": {
       "address": "156 Hughes Hall",
       "postalCode": "14853",
@@ -21,8 +21,13 @@
       "website": "",
       "startDate": "2015",
       "endDate": "Present",
-      "summary": "Guide experiential curriculum and direct Clinical Program. Direct Farmworker Legal Assistance Clinics I, II, III and IV, in which law students provide legal services to farmworkers, farmworker and civil rights advocates, and community organizations.",
-      "highlights": []
+      "summary": "Guide experiential curriculum and direct Clinical Program. Direct Farmworker Legal Assistance Clinics I, II, III and IV, in which law students provide legal services to farmworkers, farmworker and civil rights advocates, and community organizations. Founded and teach LAW 7233 Faculty at Home Seminar: Beyond English: Law, Lawyering, and Language Difference. Co-founded and co-teach LAW 7957 Clinic Spanish Conversation; LawMed Case Collaboration.",
+      "highlights": [
+        "Chair Clinical Appointments Subcommittee; Experiential Committee",
+        "Chaired Public Service Committee, Practitioner-in-Residence Committee",
+        "Member, Special Committee on ABA Standards; Self Study Committee",
+        "Liaison to New York Courts Permanent Commission on Access to Justice and New York Judiciary"
+      ]
     },
     {
       "company": "Villanova University School of Law",
@@ -30,7 +35,36 @@
       "website": "",
       "startDate": "2001",
       "endDate": "2015",
-      "summary": "Directed Clinical Program and founded Farmworker Legal Aid Clinic in which students provided legal services and know-your-rights outreach presentations to rural agricultural, landscaping, and food industry workers and their families, as well as indigent asylum seekers.",
+      "summary": "Directed Clinical Program and founded Farmworker Legal Aid Clinic in which students provided legal services and know-your-rights outreach presentations to rural agricultural, landscaping, and food industry workers and their families, as well as indigent asylum seekers. Practice areas included employment, deportation defense, and family law.",
+      "highlights": [
+        "Organized and led break service trips in various rural communities",
+        "Co-created and -directed interdisciplinary program for undergraduate students who provide interpretation services",
+        "Co-taught comparative immigration law course",
+        "Advised Hispanic Law Students Association and National Lawyers Guild student chapter",
+        "Chaired Inclusiveness Task Force and Admissions Committee",
+        "Member, Strategic Planning Task Force"
+      ]
+    },
+    {
+      "company": "International Clinical Legal Education",
+      "position": "Trainer and Visiting Lecturer",
+      "website": "",
+      "startDate": "1999",
+      "endDate": "Present",
+      "summary": "Extensive experience supporting the global development of clinical legal education. Co-designed and co-taught workshop in Spanish for two Bolivian Law Schools and three-day national certificate program on clinical legal education for Nicaraguan labor law professors and law school deans.",
+      "highlights": [
+        "Visiting lecturer and demonstration clinical teacher (Zhejiang Gongshang University, South China University of Technology School of Law, and Bennett Law School)",
+        "Plenary Presenter and Small Group Leader for four national and regional trainings (China, Hungary, and Romania)",
+        "Presented at Global Alliance for Justice Education conferences (India, New York)"
+      ]
+    },
+    {
+      "company": "George Washington University Law School and University of Oxford",
+      "position": "Tutor",
+      "website": "",
+      "startDate": "Summer 2005",
+      "endDate": "Summer 2005",
+      "summary": "Taught Human Rights Advocacy and Dissemination in University of Oxford summer program.",
       "highlights": []
     },
     {
@@ -40,6 +74,20 @@
       "startDate": "1998",
       "endDate": "2001",
       "summary": "Three-year teaching fellowship at International Human Rights Law Clinic teaching lawyering seminar and supervising students handling political asylum cases, habeas corpus litigation in federal district court, and petitions before human rights bodies.",
+      "highlights": [
+        "Designed LLM externship seminar entitled \"Lawyering Across Cultures\"",
+        "Taught seminar on \"Economic, Social and Cultural Rights\"",
+        "Guest lectured in other law school courses",
+        "Assisted with developing initiative on gender in the Indian legal curriculum"
+      ]
+    },
+    {
+      "company": "Centre on Housing Rights and Evictions",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "Summer 2000",
+      "endDate": "Summer 2000",
+      "summary": "Wrote guide to advocacy with the U.N. Committee on Economic, Social and Cultural Rights.",
       "highlights": []
     },
     {
@@ -49,6 +97,37 @@
       "startDate": "1994",
       "endDate": "1998",
       "summary": "Directed Washington asylum representation program. Represented asylum seekers and supervised caseload of 200 active cases, interviewing and screening indigent asylum seekers, recruiting, training and supervising volunteer counsel in area law firms.",
+      "highlights": [
+        "Designed training course on asylum and detention advocacy",
+        "Conducted administrative and legislative advocacy",
+        "Managed government liaison process for a national network of asylum rights advocates"
+      ]
+    },
+    {
+      "company": "D.C. Coalition Against Domestic Violence",
+      "position": "Consultant",
+      "website": "",
+      "startDate": "1994",
+      "endDate": "1994",
+      "summary": "Drafted guide for agencies seeking Violence Against Women Act funding.",
+      "highlights": []
+    },
+    {
+      "company": "Comisión Andina de Juristas, Lima Office",
+      "position": "Ford Foundation Fellow",
+      "website": "",
+      "startDate": "Summer 1993",
+      "endDate": "Summer 1993",
+      "summary": "Monitored legislative revisions of Peruvian constitution. Researched U.S. and Peruvian systems of judicial nomination, death penalty legislation and referenda.",
+      "highlights": []
+    },
+    {
+      "company": "United States Supreme Court Library",
+      "position": "Research Intern",
+      "website": "",
+      "startDate": "1991",
+      "endDate": "1993",
+      "summary": "",
       "highlights": []
     }
   ],
@@ -107,6 +186,13 @@
       "summary": "62 INT'L MIGRATION 279, 279–83 (2024) (with Ashwin Kumar and Shannon Gleeson)"
     },
     {
+      "name": "The Opportunities and Limits of Worker Solidarity for Temporary Migrant Labor",
+      "publisher": "Chapter in revision",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "(with Ashwin Kumar and Shannon Gleeson)"
+    },
+    {
       "name": "Relational Self and Farmworker Law Reform: The Case of Indonesia",
       "publisher": "Legal Pluralism and Critical Social Analysis",
       "releaseDate": "2024",
@@ -128,6 +214,13 @@
       "summary": "(with Khonzoda Umarova, et al.)"
     },
     {
+      "name": "Bridging the Gap: The Unrealized Potential for University Accounting Programs to Teach (and Do) Low-Income Immigrant Taxpayer Return Preparation",
+      "publisher": "Business Education Innovation Journal",
+      "releaseDate": "2023",
+      "website": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4610470",
+      "summary": "(with John McKinley, Marquise Riley, and Adam Vars)"
+    },
+    {
       "name": "Scorched Border Litigation",
       "publisher": "Columbia Human Rights Law Review",
       "releaseDate": "2021",
@@ -135,14 +228,245 @@
       "summary": "53 COLUMBIA H.R.L. REV. 1 (2021) (with Briana Beltran and Nan Schivone)"
     },
     {
+      "name": "Indonesia's Maritime Needs Outward-Looking Approach",
+      "publisher": "Jakarta Post",
+      "releaseDate": "2021-01-27",
+      "website": "",
+      "summary": "(with Pranoto Iskandar) (Op-Ed)"
+    },
+    {
+      "name": "Tracking Xenophobic Twitter Speech to Inform (and Shift) Policy",
+      "publisher": "4th Workshop on Mechanism Design for Social Good",
+      "releaseDate": "2020",
+      "website": "",
+      "summary": "Bao Kham Chau, Pranoto Iskandar, Harper Lyon, Lily Pagan, Beth Lyon (Peer reviewed problem paper)"
+    },
+    {
       "name": "New York State Addresses a Jim Crow-Era Legacy: The 2019 Farm Laborers Fair Labor Practices Act",
       "publisher": "Labor and Employment",
       "releaseDate": "2019",
       "website": "",
       "summary": "Volume 48, Number 1, 8 (Fall 2019)"
+    },
+    {
+      "name": "What Every (Non-Immigration) Lawyer Needs to Know About Immigration Law",
+      "publisher": "Is America Fulfilling Its Promise: Safeguarding Legal Protections for Immigrants",
+      "releaseDate": "2019",
+      "website": "",
+      "summary": "(Scott Fine and Rose Mary Bailly eds., New York State Bar Association, 2019) (with Jaclyn Kelley-Widmer and Stephen Yale-Loehr)"
+    },
+    {
+      "name": "Written Testimony on the Farmworkers Fair Labor Practices Act, S. 2837 (Ramos)/A. 2750 (Nolan)",
+      "publisher": "New York State Senate Standing Committee on Agriculture and the New York State Standing Committee on Labor",
+      "releaseDate": "2019-05-02",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "The Long-Forgotten Farmworkers in Asia",
+      "publisher": "Bangkok Post",
+      "releaseDate": "2018-03-17",
+      "website": "",
+      "summary": "(with Pranoto Iskandar) (Op-Ed)"
+    },
+    {
+      "name": "The Hidden Debate on Guestworkers and Why it Matters",
+      "publisher": "Cornell Law Forum",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "(with Briana Beltran)"
+    },
+    {
+      "name": "The ICMW and the United States of America: Substantive Overlap, Political Gap",
+      "publisher": "Shining New Light on the UN Migrant Workers Convention",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "book chapter (Pretoria University Press)"
+    },
+    {
+      "name": "Indirect Success? The Impact and Use of the ICMW in other UN Fora",
+      "publisher": "Shining New Light on the UN Migrant Workers Convention",
+      "releaseDate": "2018",
+      "website": "",
+      "summary": "book chapter (Pretoria University Press) (with Stefanie Grant)"
+    },
+    {
+      "name": "Inter-American Human Rights System Affirms Equal Protection for U.S. Undocumented Workers",
+      "publisher": "International Labor Rights Case Law",
+      "releaseDate": "2017",
+      "website": "",
+      "summary": "3 INTERNATIONAL LABOR RIGHTS CASE LAW 430 (2017)"
+    },
+    {
+      "name": "Cornell Law Clinic Urges Revised Student Practice Rules",
+      "publisher": "New York Law Journal",
+      "releaseDate": "2016-03-01",
+      "website": "",
+      "summary": "(with John Blume)"
+    },
+    {
+      "name": "\"We Asked for Workers. We Got People Instead:\" The International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families",
+      "publisher": "International Debate Education Association press",
+      "releaseDate": "2016",
+      "website": "",
+      "summary": "(Editor)"
+    },
+    {
+      "name": "Detention of Migrants: Harsher Policies, Increasing International Law Protection",
+      "publisher": "Research Handbook on Migration and International Law",
+      "releaseDate": "2014",
+      "website": "",
+      "summary": "in Vincent Chetail, Ed. (Edward Elgar Publishing) (book chapter)"
+    },
+    {
+      "name": "International Law and Undocumented Migration",
+      "publisher": "Hidden Lives and Human Rights in America: Understanding the Controversies and Tragedies of Undocumented Immigration",
+      "releaseDate": "2014",
+      "website": "",
+      "summary": "in Lois Lorentzen, Ed. (Praeger Press) (book chapter)"
+    },
+    {
+      "name": "Immigration Law in a Changing Transnational Context",
+      "publisher": "West Academic Publishing",
+      "releaseDate": "2013",
+      "website": "",
+      "summary": "(with Raquel Aldana, Won Kidane, and Karla McKanders)"
+    },
+    {
+      "name": "Promoting Language Access in the Legal Academy",
+      "publisher": "University of Maryland Law Journal of Race, Religion, Gender & Class",
+      "releaseDate": "2013",
+      "website": "",
+      "summary": "13 U. MD. L.J. RACE, RELIGION, GENDER & CLASS 6 (2013) (with Gillian Dutton, Jayesh Rathod and Deborah Weissman)"
+    },
+    {
+      "name": "International human rights norms on migrants",
+      "publisher": "Encyclopedia of Global Human Migration",
+      "releaseDate": "2013",
+      "website": "",
+      "summary": "in Peter Coveney, Ed. (WILEY-BLACKWELL)"
+    },
+    {
+      "name": "Pennsylvania Law Professors Take Action on the Right to Vote",
+      "publisher": "Society of American Teachers' SALTLAW Blog",
+      "releaseDate": "2012-10-11",
+      "website": "",
+      "summary": ""
+    },
+    {
+      "name": "Law Schools as Advocates for Social Change: Movement to Fully Integrate Undocumented Law Students",
+      "publisher": "Arizona State Law Journal",
+      "releaseDate": "2012",
+      "website": "",
+      "summary": "44 AZ. ST. L.J. 5 (2012) (with Raquel Aldana and Karla McKanders)"
+    },
+    {
+      "name": "Foreword, South-North Exchange Symposium on \"The Global Politics of Food\"",
+      "publisher": "University of Miami Inter-American Law Review",
+      "releaseDate": "2011",
+      "website": "",
+      "summary": "43 U. MIAMI INTER-AM. L. REV. 1 (2011) (with Nancy Ehrenreich)"
+    },
+    {
+      "name": "Human Rights Aspirations, Professional Obligations: Practitioner Survey on the Ethics of Domestic Human Rights",
+      "publisher": "Notre Dame Journal of International, Comparative, & Human Rights Law",
+      "releaseDate": "2011",
+      "website": "",
+      "summary": "1 NOTRE DAME J. INT'L, COMP., & HUM. RTS. L. 114 (2011)"
+    },
+    {
+      "name": "The Unsigned United Nations Migrant Worker Rights Convention: an Overlooked Opportunity to Change the \"Brown Collar\" Migration Paradigm",
+      "publisher": "New York University Journal of International Law & Politics",
+      "releaseDate": "2010",
+      "website": "",
+      "summary": "42 N.Y.U. J. INT'L L. & POL. 389 (2010)"
+    },
+    {
+      "name": "Changing Tactics: Globalization and the U.S. Immigrant Worker Rights Movement",
+      "publisher": "UCLA Journal of International Law & Foreign Affairs",
+      "releaseDate": "2008",
+      "website": "",
+      "summary": "13 UCLA J. INT'L. L. & FOREIGN AFF. 161 (2008)"
+    },
+    {
+      "name": "Strategies for Raising Poverty in America as a Violation of International Human Rights Law",
+      "publisher": "The Souls of Poor Folk",
+      "releaseDate": "2008",
+      "website": "",
+      "summary": "in Charles Lattimore Howard, Ed. (book chapter)"
+    },
+    {
+      "name": "From Sanctuary to Shaping International Law: How Unauthorized Immigrant Workers are Advocating Beyond U.S. Borders",
+      "publisher": "Bringing Human Rights Home",
+      "releaseDate": "2008",
+      "website": "",
+      "summary": "in Catherine Albisa et al., Eds. (Praeger/Greenwood Publishing Group 2008) (book chapter)"
+    },
+    {
+      "name": "Tipping the Balance: Why Courts Should Look to International and Foreign Law on Unauthorized Immigrant Worker Rights",
+      "publisher": "University of Pennsylvania Journal of International Law",
+      "releaseDate": "2007",
+      "website": "",
+      "summary": "29 U. PENN. J. INT'L L. 169 (2007)"
+    },
+    {
+      "name": "New International Human Rights Standards on Unauthorized Immigrant Worker Rights: Seizing an Opportunity to Pull Governments out of the Shadows",
+      "publisher": "Human Rights, Refugees and Displaced Persons in Process: Essays in Honour of Joan Fitzpatrick and Arthur Helton",
+      "releaseDate": "2005",
+      "website": "",
+      "summary": "in Anne Bayefsky, Ed. (Brill Academic Publishers, 2005) (book chapter)"
+    },
+    {
+      "name": "Farm Workers in Illinois: Law Reforms and Opportunities for the Legal Academy to Protect Some of the State's Most Disadvantaged Workers",
+      "publisher": "Southern Illinois University Law Journal",
+      "releaseDate": "2005",
+      "website": "",
+      "summary": "29 S. ILL. U. L.J. 263 (2005) (essay)"
+    },
+    {
+      "name": "When More \"Security\" Equals Less Workplace Safety: Reconsidering U.S. Laws that Disadvantage Unauthorized Workers",
+      "publisher": "University of Pennsylvania Journal of Labor & Employment Law",
+      "releaseDate": "2004",
+      "website": "",
+      "summary": "6 U. PA. J. LAB. EMP. L. 571 (2004)"
+    },
+    {
+      "name": "Inter-American Developments on Globalization's Refugees: New Rights for Migrant Workers and Their Families",
+      "publisher": "European Yearbook of Minority Rights",
+      "releaseDate": "2003-2004",
+      "website": "",
+      "summary": "3 EUR. Y.B. OF MINORITY RTS. 63 (2003-2004) (with Sarah Paoletti)"
+    },
+    {
+      "name": "The Inter-American Court of Human Rights Defines Unauthorized Migrant Workers' Rights for the Hemisphere: A Comment on Advisory Opinion 18",
+      "publisher": "New York University Review of Law & Social Change",
+      "releaseDate": "2003-04",
+      "website": "",
+      "summary": "28 N.Y.U. REV. L. & SOC. CHANGE 547 (2003-04)"
+    },
+    {
+      "name": "Discourse in Development: A Post-Colonial \"Agenda\" for the United Nations Committee on Economic, Social and Cultural Rights",
+      "publisher": "American University Journal of Gender, Social Policy & Law",
+      "releaseDate": "2003",
+      "website": "",
+      "summary": "10 AM. U. J. GENDER SOC. POL'Y & L. 535 (2003)"
+    },
+    {
+      "name": "Inter-American Court of Human Rights Amicus Curiae Brief: The United States Violates International Law When Labor Law Remedies Are Restricted Based on Workers' Migrant Status",
+      "publisher": "Seattle Journal for Social Justice",
+      "releaseDate": "2003",
+      "website": "",
+      "summary": "1 SEATTLE J. SOC. JUST. 795 (2003) (with Sarah Cleveland and Rebecca Smith)"
     }
   ],
   "presentations": [
+    {
+      "name": "FINAL PANEL TOPIC",
+      "event": "Association of Public and Land Grant Universities, Cornell Tech",
+      "date": "2025-07-01",
+      "location": "Roosevelt Island",
+      "description": ""
+    },
     {
       "name": "Emergency Preparedness for Farmworkers: From Wildfires to Immigration Raids",
       "event": "2025 International Society for Agricultural Safety and Health",
@@ -151,10 +475,31 @@
       "description": ""
     },
     {
+      "name": "Workstream 4 Discussion",
+      "event": "Liberating Migrant Labour: International Mobility Programs in Settler Colonial Contexts Annual Meeting",
+      "date": "2025-06-12",
+      "location": "York University, Toronto",
+      "description": ""
+    },
+    {
       "name": "U.S. Immigration Policy Updates",
-      "event": "Workshop on Labour Migration in Settler Colonial Contexts",
+      "event": "Workshop on Labour Migration in Settler Colonial Contexts: Conversations Between Critical Labour Migration and Indigenous Studies",
       "date": "2025-06-11",
       "location": "York University, Toronto",
+      "description": ""
+    },
+    {
+      "name": "Democracy, public opinion and algorithmic literacy: the case of the Spanish Xenometer (S-Xenometer)",
+      "event": "Artificial Intelligence against xenophobia, Conference on Current Challenges for the Rule of Law in Europe",
+      "date": "2025-05-27",
+      "location": "Universidad Pública de Navarra, Pamplona (via zoom)",
+      "description": ""
+    },
+    {
+      "name": "Overview of Funded Research",
+      "event": "Migrations Symposium",
+      "date": "2025-01-31",
+      "location": "Cornell University, Ithaca, NY",
       "description": ""
     },
     {
@@ -169,13 +514,293 @@
       "event": "CRIMT 2024 Conference",
       "date": "2024-10-25",
       "location": "Montreal",
+      "description": "Kumar. A., Gleeson, S.; and Lyon, B. (2024)"
+    },
+    {
+      "name": "Activity Stream 4: Articulating Principles and Policy Options",
+      "event": "Liberating Migrant Labour Methodology Workshop",
+      "date": "2024-06-16",
+      "location": "Université de Montréal, Montreal",
+      "description": ""
+    },
+    {
+      "name": "Discussion of draft \"Authorship & Acknowledgement\" guidelines",
+      "event": "Liberating Migrant Labour Canadian/US Region Meeting",
+      "date": "2024-06-15",
+      "location": "Université de Montréal, Montreal",
+      "description": ""
+    },
+    {
+      "name": "How to Match Protections Along with Skills? Limitations of the Match and Move Matrix for Temporary Migrant Workers",
+      "event": "Canadian Political Science Association Workshop",
+      "date": "2024-06-15",
+      "location": "Montreal (held at Université de Montréal owing to strike)",
+      "description": ""
+    },
+    {
+      "name": "Bringing together researchers and farmworker service providers to discuss and synergize on projects impacting U.S. farmworkers",
+      "event": "International Society for Agricultural Safety and Health Annual Conference",
+      "date": "2024-06-18",
+      "location": "Portland, Oregon",
       "description": ""
     },
     {
       "name": "Artificial Intelligence to Prevent Xenophobia",
-      "event": "IV Seminario internacional \"Guerra, derecho y seguridad en las relaciones internacionales\"",
+      "event": "IV Seminario internacional \"Guerra, derecho y seguridad en las relaciones internacionales,\" ¿Será Más Humana la Guerra de las Máquinas?",
       "date": "2024-05-10",
       "location": "Universidad de Oviedo",
+      "description": ""
+    },
+    {
+      "name": "Child Farmworker Access to Justice",
+      "event": "Farmworker Legal Assistance Clinic and National Center for Farmworker Health Workshop",
+      "date": "2024-04-26",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Who Has the Right to Free Speech? Immigration, Civil Liberty, and Freedom of Expression",
+      "event": "Freedom of Expression Theme Year",
+      "date": "2024-03-05",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Farmworker Law: Addressing a Jim Crow Legacy",
+      "event": "Regent University School of Law",
+      "date": "2024-02-16",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Tracking Online Xenophobic Speech by Political Discourse Influencers",
+      "event": "Critical Legal Collective Inaugural Convening",
+      "date": "2023-11-11",
+      "location": "Duke Law School",
+      "description": ""
+    },
+    {
+      "name": "Guest Lecture",
+      "event": "David Burley's SOC 460, Food, Sustainability and Society",
+      "date": "2023-10-24",
+      "location": "Southeastern Louisiana University",
+      "description": ""
+    },
+    {
+      "name": "A Technical Approach to Tracking Online Xenophobic Speech by Political Discourse Influencers",
+      "event": "LatCrit Biennial Conference",
+      "date": "2023-10-06",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "\"Critical Justice:\" Critical Theory in the Experiential Curriculum",
+      "event": "Teoría Crítica del Derecho y Justicia Social en las Américas: Discusión pública de un libro colectivo en construcción",
+      "date": "2023-05-26",
+      "location": "Latin American Studies Association",
+      "description": ""
+    },
+    {
+      "name": "Experiences with Incorporating Critical Theory Insights into Clinical Courses Using Critical Justice: Systemic Advocacy in Law and Society",
+      "event": "AALS Clinical Conference",
+      "date": "2023-04-27",
+      "location": "San Francisco",
+      "description": "Poster Presenter"
+    },
+    {
+      "name": "Guest-Lecturer for Temple Law, Low-Income Taxpayer Policy & Practice",
+      "event": "Temple Law",
+      "date": "2023-03-14",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Una Mirada Crítica a la Migración",
+      "event": "Curso Crítico: Teoría Crítica del Derecho y Justicia Social en las Américas",
+      "date": "2023-02-27",
+      "location": "Universidad Católica de Uruguay, Online",
+      "description": ""
+    },
+    {
+      "name": "The Role of Law School Clinics in Addressing Predatory Migration Regimes",
+      "event": "La Escuela Libre de Derecho 110th Anniversary Celebration",
+      "date": "2022-08-15",
+      "location": "Mexico City",
+      "description": "Keynote Presenter"
+    },
+    {
+      "name": "Teoría Crítica del Derecho Migratorio",
+      "event": "Curso Verano: Teoría Crítica del Derecho y Justicia Social en las Américas",
+      "date": "2022-01-24",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "Plenary Panel on Latcrit's Critical Justice Reader in the Experiential Curriculum",
+      "event": "",
+      "date": "2021-10-09",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "York University Workshop on Transnational Labour Intermediation",
+      "event": "",
+      "date": "2021-09-21",
+      "location": "Online",
+      "description": "Participant"
+    },
+    {
+      "name": "Designing Student-Based Language Interpreter Programs to Ensure Language Accessible Clinics",
+      "event": "AALS Clinical Conference",
+      "date": "2021-05-01",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "Challenging White Supremacy for Non-BIPOC Clinicians",
+      "event": "",
+      "date": "2021-04-30",
+      "location": "Online",
+      "description": "Small group facilitator"
+    },
+    {
+      "name": "Critical Theory Working Group",
+      "event": "AALS Clinical Conference",
+      "date": "2021-04-28",
+      "location": "Online",
+      "description": "Co-Host"
+    },
+    {
+      "name": "Introduction of Ellmann Clinical Scholarship Awardee",
+      "event": "AALS Clinical Conference",
+      "date": "2021-04-28",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "Farmworker Employment Justice",
+      "event": "Texas A&M University School of Law, Law and Social Justice Webinar Series",
+      "date": "2021-04-22",
+      "location": "Online",
+      "description": ""
+    },
+    {
+      "name": "The Rise of Farmworker Law",
+      "event": "Conference on International, Comparative, Foreign and Domestic: A Virtual Gathering of Friends",
+      "date": "2021-01-22",
+      "location": "University of Toledo College of Law (Festschrift for Professor Ben Davis)",
+      "description": ""
+    },
+    {
+      "name": "Migrant Workers in the Pandemic",
+      "event": "Panel on Responding to the Pandemic at Work: Organizing, Litigation, and Enforcement, AALS Annual Meeting",
+      "date": "2021-01-08",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Conceptualizing Migrant Farmworker Rights in Asia",
+      "event": "Cornell Migrations Seminar Series",
+      "date": "2020-10-07",
+      "location": "",
+      "description": "(with Pranoto Iskandar)"
+    },
+    {
+      "name": "One Bridge, Two Gaps: The Unrealized Interprofessional Potential for Law and Accounting Clinical Collaboration",
+      "event": "2020 Clinical Law Review Writers' Workshop",
+      "date": "2020-10-03",
+      "location": "NYU School of Law",
+      "description": "(with John McKinley)"
+    },
+    {
+      "name": "Ethical Issues in Clinical Practice",
+      "event": "Professional Responsibility for LLMs",
+      "date": "2020-03-25",
+      "location": "",
+      "description": "Guest lecture"
+    },
+    {
+      "name": "Access to Justice in an International Context",
+      "event": "Cornell Law Briggs Society of International Law",
+      "date": "2020-03-03",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Farmworker Protection: A Failed Postcolonial Promise",
+      "event": "Bennett Law Faculty",
+      "date": "2020-01-17",
+      "location": "Greater Noida, India",
+      "description": ""
+    },
+    {
+      "name": "Temporary Foreign Worker Programs through an International Law Lens",
+      "event": "Metropolis Conference: Beyond Borders: Managing Migration in North America",
+      "date": "2019-11-08",
+      "location": "San Diego",
+      "description": ""
+    },
+    {
+      "name": "Farmworker Advocacy",
+      "event": "Political Ecologies of Health",
+      "date": "2019-10-03",
+      "location": "Cornell University",
+      "description": "Guest lecture"
+    },
+    {
+      "name": "Cornell Law School Faculty Summer Workshop Series",
+      "event": "",
+      "date": "2019-06-06",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Theories of Language Access to Justice",
+      "event": "Law and Society Conference",
+      "date": "2019-05-31",
+      "location": "Washington, DC",
+      "description": "Chair"
+    },
+    {
+      "name": "Farmworkers, Labor Rights, and Legal Mobilization",
+      "event": "Law and Society Conference",
+      "date": "2019-05-31",
+      "location": "Washington, DC",
+      "description": "Chair"
+    },
+    {
+      "name": "Working Group on Access to Justice in Immigration",
+      "event": "Eighth Annual Law School Access to Justice Conference",
+      "date": "2019-05-14",
+      "location": "Brooklyn Law School",
+      "description": "Co-Chair"
+    },
+    {
+      "name": "Disruptive forces affecting food system workers",
+      "event": "Food & Our Changing Climate: A Conference Integrating Science and Law",
+      "date": "2019-04-26",
+      "location": "University of Connecticut School of Law",
+      "description": ""
+    },
+    {
+      "name": "Predatory Immigration Regimes",
+      "event": "Northern Kentucky Law Review Symposium on Common Cause: Synthesizing the Work of Human Rights and Civil Rights Scholars and Practitioners",
+      "date": "2019-04-12",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Mentoring in Clinical Education",
+      "event": "Celebrating Clinical Legal Education",
+      "date": "2018-10-12",
+      "location": "",
+      "description": ""
+    },
+    {
+      "name": "Rurality and Criminal Practice: Preparing Students for the Challenges Ahead",
+      "event": "2018 Society of American Law Teachers Conference",
+      "date": "2018-10-06",
+      "location": "",
       "description": ""
     }
   ],
@@ -184,7 +809,7 @@
       "course": "Farmworker Legal Assistance Clinics I, II, III and IV",
       "institution": "Cornell Law School",
       "date": "2015-01-01",
-      "role": "Clinical Professor",
+      "role": "Clinical Professor and Founding Director",
       "description": "Law students provide legal services to farmworkers, farmworker and civil rights advocates, and community organizations"
     },
     {
@@ -202,12 +827,284 @@
       "description": ""
     },
     {
+      "course": "Law 7269 Critical Perspectives: Racism, Xenophobia and Im/migration",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Co-teacher",
+      "description": ""
+    },
+    {
+      "course": "INFO 4940/5940/6940 Detecting Xenophobia Online",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Co-founder and Co-teacher",
+      "description": ""
+    },
+    {
+      "course": "Phil 2990: Foundations of Law & Society",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Co-teacher",
+      "description": ""
+    },
+    {
+      "course": "Low-Income Taxpayer Law and Accounting Practicum I, II, and III",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Teacher",
+      "description": ""
+    },
+    {
+      "course": "Farmworker Legal Aid Clinic",
+      "institution": "Villanova University School of Law",
+      "date": "2001-01-01",
+      "role": "Founding Director",
+      "description": "Students provided legal services and know-your-rights outreach presentations to rural agricultural, landscaping, and food industry workers and their families, as well as indigent asylum seekers"
+    },
+    {
+      "course": "Community Interpreter Internship Program",
+      "institution": "Villanova University School of Law",
+      "date": "2001-01-01",
+      "role": "Founding Co-Director",
+      "description": "Interdisciplinary program for undergraduate students who provide interpretation services to the clinical program and other organizations"
+    },
+    {
+      "course": "Comparative Immigration Law Course",
+      "institution": "Villanova University School of Law",
+      "date": "2001-01-01",
+      "role": "Co-teacher",
+      "description": ""
+    },
+    {
       "course": "Human Rights Advocacy and Dissemination",
       "institution": "University of Oxford summer program",
       "date": "2005-01-01",
       "role": "Tutor",
       "description": ""
+    },
+    {
+      "course": "International Human Rights Law Clinic - Lawyering Seminar",
+      "institution": "Washington College of Law, American University",
+      "date": "1998-01-01",
+      "role": "Practitioner-in-Residence",
+      "description": "Supervising students handling political asylum cases, habeas corpus litigation in federal district court, and petitions before human rights bodies"
+    },
+    {
+      "course": "Lawyering Across Cultures",
+      "institution": "Washington College of Law, American University",
+      "date": "1998-01-01",
+      "role": "Designer and Teacher",
+      "description": "LLM externship seminar"
+    },
+    {
+      "course": "Economic, Social and Cultural Rights",
+      "institution": "Washington College of Law, American University",
+      "date": "1998-01-01",
+      "role": "Teacher",
+      "description": "Seminar"
     }
   ],
-  "portfolio": []
+  "portfolio": [],
+  "grants": [
+    {
+      "name": "Cornell University Global Strategic Collaboration Award",
+      "agency": "Cornell University",
+      "year": "2024-2025",
+      "role": "Principal Investigator",
+      "description": "Study of Southern Africa Region anti-xenophobia policy"
+    },
+    {
+      "name": "Immigrant Justice Corps Fellowship",
+      "agency": "Immigrant Justice Corps",
+      "year": "2024-2025",
+      "role": "Principal Investigator",
+      "description": "Tasha Gottschalk-Fielding Fellowship, year 2"
+    },
+    {
+      "name": "Internal Revenue Service Low-Income Taxpayer Clinic Grant",
+      "agency": "Internal Revenue Service",
+      "year": "2024-2025",
+      "role": "Principal Investigator",
+      "description": ""
+    },
+    {
+      "name": "Liberating Migrant Labour? International Mobility Programs in Settler-Colonial Contexts",
+      "agency": "Canada Social Sciences and Humanities Research Council Partnership Grant",
+      "year": "2024-2025",
+      "role": "Collaborating Scholar, Activity Stream 4 Co-Lead",
+      "description": "Year 2"
+    },
+    {
+      "name": "Salvatore LawMed Collaboration Grant",
+      "agency": "Cornell University",
+      "year": "2024-2025",
+      "role": "Co-Lead",
+      "description": "Year 3"
+    },
+    {
+      "name": "Einaudi Seed Funding Grant",
+      "agency": "Cornell University",
+      "year": "2023-2024",
+      "role": "Co-Principal Investigator",
+      "description": ""
+    },
+    {
+      "name": "Cornell Center for Health Equity Community Partnership Grant",
+      "agency": "Cornell University",
+      "year": "2023-2024",
+      "role": "Principal Investigator",
+      "description": "Partnership with National Center for Farmworker Health"
+    },
+    {
+      "name": "Cooperstown Churches Farmworker Clinic Fellow Grant",
+      "agency": "Cooperstown Churches",
+      "year": "2023-2024",
+      "role": "Principal Investigator",
+      "description": "Year 2"
+    },
+    {
+      "name": "Einaudi Global Public Voices fellowship",
+      "agency": "Cornell University",
+      "year": "2022-2023",
+      "role": "Fellow",
+      "description": ""
+    },
+    {
+      "name": "Mellon/Grand Challenges Migrations Grant",
+      "agency": "Cornell University",
+      "year": "2022-2023",
+      "role": "Co-Principal Investigator",
+      "description": "LatCrit Biennial Conference Migration Summit"
+    },
+    {
+      "name": "Mellon/Grand Challenges Migrations Grant",
+      "agency": "Cornell University",
+      "year": "2021-2022",
+      "role": "Co-Principal Investigator",
+      "description": "Xenophobia Meter Project"
+    },
+    {
+      "name": "Grand Challenges Migrations Grant",
+      "agency": "Cornell University",
+      "year": "2020-2021",
+      "role": "Principal Investigator",
+      "description": "Comparative Farmworker Project"
+    },
+    {
+      "name": "NYC Visioning Grant",
+      "agency": "",
+      "year": "2019-2020",
+      "role": "Co-Principal Investigator",
+      "description": ""
+    },
+    {
+      "name": "Cornell Office of Engagement Initiatives Faculty Fellow in Engaged Scholarship",
+      "agency": "Cornell University",
+      "year": "2018-2019",
+      "role": "Fellow",
+      "description": ""
+    },
+    {
+      "name": "University of Oslo Norwegian Centre for Human Rights",
+      "agency": "University of Oslo",
+      "year": "2018",
+      "role": "Visiting Scholar",
+      "description": "April-May 2018"
+    },
+    {
+      "name": "Engaged Cornell Curriculum Grant",
+      "agency": "Cornell University",
+      "year": "2016-2019",
+      "role": "Co-Principal Investigator",
+      "description": ""
+    }
+  ],
+  "honors": [
+    {
+      "title": "C. Peter Magrath Community Engagement Scholarship Award",
+      "date": "2019",
+      "awarder": "Association of Public and Land Grant Universities",
+      "summary": "Member of Cornell team"
+    },
+    {
+      "title": "Top 25 Innovative Law School Clinics",
+      "date": "2014",
+      "awarder": "Prelaw Magazine",
+      "summary": "Villanova Law School Farmworker Legal Aid Clinic"
+    },
+    {
+      "title": "Outstanding Book Award",
+      "date": "2008",
+      "awarder": "Gustavus Myers Center for the Study of Bigotry and Human Rights in North America",
+      "summary": "For the three-volume Bringing Home Human Rights (chapter contributor)"
+    },
+    {
+      "title": "Shanara Gilbert Emerging Clinician Award",
+      "date": "2003",
+      "awarder": "AALS Section on Clinical Legal Education",
+      "summary": ""
+    }
+  ],
+  "professional_affiliations": [
+    {
+      "organization": "Justice in Motion",
+      "position": "Member of the Board, Founding President of the Board",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Latina and Latino Critical Theory",
+      "position": "Member of the Board and Board Co-Treasurer",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "AALS Clinical Legal Education Section",
+      "position": "Member",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Clinical Legal Education Association",
+      "position": "Member",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Association of American Law Schools Clinical Section",
+      "position": "Member",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "Bar of the State of New York",
+      "position": "Active status",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "American Bar Association",
+      "position": "Member",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "National Lawyers Guild",
+      "position": "Member",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "American Immigration Lawyers Association",
+      "position": "Member",
+      "startDate": "",
+      "endDate": "Present"
+    },
+    {
+      "organization": "New York State Family Courts Advisory Council on Immigration Issues in Family Courts",
+      "position": "Member",
+      "startDate": "2020",
+      "endDate": "2025"
+    }
+  ]
 }

@@ -1,0 +1,213 @@
+{
+  "basics": {
+    "name": "Beth Lyon",
+    "email": "mbl235@cornell.edu",
+    "phone": "607-255-4196",
+    "website": "",
+    "summary": "Clinical Professor of Law and Associate Dean for Experiential Education at Cornell Law School. Founding Director of Farmworker Legal Assistance Clinic with extensive experience in immigration law, human rights, and clinical legal education.",
+    "location": {
+      "address": "156 Hughes Hall",
+      "postalCode": "14853",
+      "city": "Ithaca",
+      "countryCode": "US",
+      "region": "NY"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Cornell Law School",
+      "position": "Clinical Professor of Law, Associate Dean for Experiential Education and Clinical Program Director, Founding Director, Farmworker Legal Assistance Clinic",
+      "website": "",
+      "startDate": "2015",
+      "endDate": "Present",
+      "summary": "Guide experiential curriculum and direct Clinical Program. Direct Farmworker Legal Assistance Clinics I, II, III and IV, in which law students provide legal services to farmworkers, farmworker and civil rights advocates, and community organizations.",
+      "highlights": []
+    },
+    {
+      "company": "Villanova University School of Law",
+      "position": "Professor of Law and Acting Director of Clinical Programs, Founding Director, Farmworker Legal Aid Clinic, Founding Co-Director, Community Interpreter Internship Program",
+      "website": "",
+      "startDate": "2001",
+      "endDate": "2015",
+      "summary": "Directed Clinical Program and founded Farmworker Legal Aid Clinic in which students provided legal services and know-your-rights outreach presentations to rural agricultural, landscaping, and food industry workers and their families, as well as indigent asylum seekers.",
+      "highlights": []
+    },
+    {
+      "company": "Washington College of Law, American University",
+      "position": "Practitioner-in-Residence",
+      "website": "",
+      "startDate": "1998",
+      "endDate": "2001",
+      "summary": "Three-year teaching fellowship at International Human Rights Law Clinic teaching lawyering seminar and supervising students handling political asylum cases, habeas corpus litigation in federal district court, and petitions before human rights bodies.",
+      "highlights": []
+    },
+    {
+      "company": "Human Rights First",
+      "position": "Staff Attorney",
+      "website": "",
+      "startDate": "1994",
+      "endDate": "1998",
+      "summary": "Directed Washington asylum representation program. Represented asylum seekers and supervised caseload of 200 active cases, interviewing and screening indigent asylum seekers, recruiting, training and supervising volunteer counsel in area law firms.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Georgetown University Law Center",
+      "area": "Juris Doctor",
+      "studyType": "J.D.",
+      "startDate": "",
+      "endDate": "1994",
+      "gpa": null,
+      "courses": ["Ford Foundation Fellow", "Managing Editor, Georgetown Journal of International Law"]
+    },
+    {
+      "institution": "Georgetown University School of Foreign Service",
+      "area": "Master of Science with Honors",
+      "studyType": "M.S.",
+      "startDate": "",
+      "endDate": "1994",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of North Carolina at Chapel Hill",
+      "area": "B.A.",
+      "studyType": "Bachelor's",
+      "startDate": "",
+      "endDate": "1988",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Professional"
+    },
+    {
+      "language": "French",
+      "fluency": "Rudimentary"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Rudimentary"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "How to Match Protections Along with Skills? Limitations of the Match and Move Matrix for Temporary Migrant Workers",
+      "publisher": "International Migration",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.1111/imig.13343",
+      "summary": "62 INT'L MIGRATION 279, 279–83 (2024) (with Ashwin Kumar and Shannon Gleeson)"
+    },
+    {
+      "name": "Relational Self and Farmworker Law Reform: The Case of Indonesia",
+      "publisher": "Legal Pluralism and Critical Social Analysis",
+      "releaseDate": "2024",
+      "website": "10.1080/27706869.2024.2374631",
+      "summary": "Volume 56, No. 3. Pp. 616-636 (with Pranoto Iskandar)"
+    },
+    {
+      "name": "Portable Justice",
+      "publisher": "Migration and the Sustainable Development Goals",
+      "releaseDate": "2024",
+      "website": "",
+      "summary": "in Kavita Datta and Nicola Piper, Eds., 281-304 (with Cathleen Caron)"
+    },
+    {
+      "name": "Xenophobia Meter: Defining and Measuring Online Sentiment Toward Foreigners on Twitter",
+      "publisher": "International AAAI Conference on Web and Social Media (ICWSM)",
+      "releaseDate": "2024",
+      "website": "https://ojs.aaai.org/index.php/ICWSM/article/view/31406",
+      "summary": "(with Khonzoda Umarova, et al.)"
+    },
+    {
+      "name": "Scorched Border Litigation",
+      "publisher": "Columbia Human Rights Law Review",
+      "releaseDate": "2021",
+      "website": "",
+      "summary": "53 COLUMBIA H.R.L. REV. 1 (2021) (with Briana Beltran and Nan Schivone)"
+    },
+    {
+      "name": "New York State Addresses a Jim Crow-Era Legacy: The 2019 Farm Laborers Fair Labor Practices Act",
+      "publisher": "Labor and Employment",
+      "releaseDate": "2019",
+      "website": "",
+      "summary": "Volume 48, Number 1, 8 (Fall 2019)"
+    }
+  ],
+  "presentations": [
+    {
+      "name": "Emergency Preparedness for Farmworkers: From Wildfires to Immigration Raids",
+      "event": "2025 International Society for Agricultural Safety and Health",
+      "date": "2025-06-24",
+      "location": "Portland, Maine",
+      "description": ""
+    },
+    {
+      "name": "U.S. Immigration Policy Updates",
+      "event": "Workshop on Labour Migration in Settler Colonial Contexts",
+      "date": "2025-06-11",
+      "location": "York University, Toronto",
+      "description": ""
+    },
+    {
+      "name": "How Immigration Representation Has Changed Over the Last 40 Years and the Need for Increased Legal Representation of Immigrants",
+      "event": "The (Im)possibility of Immigration Reform: A Conference in Honor of Steve Yale-Loehr",
+      "date": "2024-11-08",
+      "location": "Cornell Law School, Ithaca",
+      "description": ""
+    },
+    {
+      "name": "Temporary Foreign Work in the US: A Comparative Study of the H Visa Programs",
+      "event": "CRIMT 2024 Conference",
+      "date": "2024-10-25",
+      "location": "Montreal",
+      "description": ""
+    },
+    {
+      "name": "Artificial Intelligence to Prevent Xenophobia",
+      "event": "IV Seminario internacional \"Guerra, derecho y seguridad en las relaciones internacionales\"",
+      "date": "2024-05-10",
+      "location": "Universidad de Oviedo",
+      "description": ""
+    }
+  ],
+  "teaching": [
+    {
+      "course": "Farmworker Legal Assistance Clinics I, II, III and IV",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Clinical Professor",
+      "description": "Law students provide legal services to farmworkers, farmworker and civil rights advocates, and community organizations"
+    },
+    {
+      "course": "LAW 7233 Faculty at Home Seminar: Beyond English: Law, Lawyering, and Language Difference",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Founder and Teacher",
+      "description": ""
+    },
+    {
+      "course": "LAW 7957 Clinic Spanish Conversation; LawMed Case Collaboration",
+      "institution": "Cornell Law School",
+      "date": "2015-01-01",
+      "role": "Co-founder and Co-teacher",
+      "description": ""
+    },
+    {
+      "course": "Human Rights Advocacy and Dissemination",
+      "institution": "University of Oxford summer program",
+      "date": "2005-01-01",
+      "role": "Tutor",
+      "description": ""
+    }
+  ],
+  "portfolio": []
+}
